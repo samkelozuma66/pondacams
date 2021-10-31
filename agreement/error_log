@@ -1,0 +1,4 @@
+[26-Aug-2021 23:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method dataBase::getData() in /home/pinecott/pondacams.com/public_html/agreement/getAgreement.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/agreement/getAgreement.php on line 4

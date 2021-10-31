@@ -1,0 +1,843 @@
+[21-Oct-2020 13:59:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:05:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:05:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:05:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[21-Oct-2020 14:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/login.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[21-Oct-2020 14:27:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:27:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:27:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[21-Oct-2020 14:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[21-Oct-2020 14:31:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:31:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:33:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:34:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:34:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:34:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:34:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[21-Oct-2020 14:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/login.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[21-Oct-2020 14:34:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:35:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:35:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[21-Oct-2020 14:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/login.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[21-Oct-2020 14:35:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:36:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:36:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:36:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[21-Oct-2020 14:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/login.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[21-Oct-2020 14:36:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[21-Oct-2020 14:38:42 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:38:45 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:38:47 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:40:38 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:42:57 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:43:00 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:43:03 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:43:08 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:43:16 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:43:24 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/asheer/public_html/pondacam/studio/config.php on line 81
+[21-Oct-2020 14:45:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:45:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:46:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:46:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:47:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:47:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:47:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:47:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:47:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 52
+[21-Oct-2020 14:48:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 14:48:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:12:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:12:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:14:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:14:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:14:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:14:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:14:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:15:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:15:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:16:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:16:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:18:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:18:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:18:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:18:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:22:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:22:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 38
+[21-Oct-2020 15:25:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/asheer/public_html/pondacam/studio/login.php on line 39
+[23-Oct-2020 11:37:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:37:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:37:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:37:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:37:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:37:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:38:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:38:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:38:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:40:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:40:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:40:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:40:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:40:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:40:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:40:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/index.php(3): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:50:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:50:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:51:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:51:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 11:51:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/asheer/public_html/pondacam/studio/config.php on line 44
+[23-Oct-2020 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asheer/public_html/pondacam/studio/config.php:45
+Stack trace:
+#0 /home/asheer/public_html/pondacam/studio/login.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/asheer/public_html/pondacam/studio/config.php on line 45
+[23-Oct-2020 11:51:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asheer/public_html/pondacam/studio/config.php on line 12
+[23-Oct-2020 12:13:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:14:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:16:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:16:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:20:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:21:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:21:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:21:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:23:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:24:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:30:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:34:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[23-Oct-2020 12:37:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asheer/public_html/pondacam/studio/ajaxdata.php:18) in /home/asheer/public_html/pondacam/studio/ajaxdata.php on line 25
+[03-Aug-2021 17:14:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/pondacam/public_html/model/livesession.php on line 356
+[03-Aug-2021 17:14:23 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/pondacam/public_html/model/livesession.php on line 354
+[03-Aug-2021 17:14:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/pondacam/public_html/model/livesession.php on line 354
+[03-Aug-2021 17:14:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/pondacam/public_html/model/livesession.php on line 354
+[03-Aug-2021 17:17:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/pondacam/public_html/model/livesession.php on line 313
+[03-Aug-2021 17:22:24 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/pondacam/public_html/model/createSession.php on line 3
+[13-Aug-2021 17:39:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'pondacam_live'@'localhost' (using password: YES) in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[13-Aug-2021 17:39:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'pondacam_live'@'localhost' (using password: YES) in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[13-Aug-2021 17:39:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'pondacam_live'@'localhost' (using password: YES) in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[13-Aug-2021 17:39:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[13-Aug-2021 17:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[15-Aug-2021 12:40:03 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 174
+[15-Aug-2021 12:40:03 UTC] PHP Warning:  A non-numeric value encountered in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 174
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  A non-numeric value encountered in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  A non-numeric value encountered in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[15-Aug-2021 12:44:03 UTC] PHP Warning:  A non-numeric value encountered in /home/pinecott/pondacams.com/public_html/model/tipHistory.php on line 176
+[16-Aug-2021 22:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method dataBase::getData() in /home/pinecott/pondacams.com/public_html/model/security.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/security.php on line 201
+[16-Aug-2021 22:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method dataBase::getData() in /home/pinecott/pondacams.com/public_html/model/security.php:201
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/security.php on line 201
+[25-Aug-2021 11:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method dataBase::updateRow() in /home/pinecott/pondacams.com/public_html/model/updateSession.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/updateSession.php on line 8
+[26-Aug-2021 22:26:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[26-Aug-2021 22:26:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[26-Aug-2021 22:26:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[26-Aug-2021 22:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/info.php(98): dataBase->getRow('preference', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[27-Aug-2021 17:14:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 17:14:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 17:14:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[27-Aug-2021 17:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[27-Aug-2021 17:27:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 17:27:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 17:27:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[27-Aug-2021 17:27:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/tipHistory.php(170): dataBase->getRow('tokenTransfer', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[27-Aug-2021 18:02:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:02:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:02:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[27-Aug-2021 18:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/profile.php(14): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[27-Aug-2021 18:03:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:03:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:03:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:03:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[27-Aug-2021 18:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(16): dataBase->getRow('preference', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[27-Aug-2021 18:23:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:41:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:41:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[27-Aug-2021 18:41:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[27-Aug-2021 18:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/updateInfo.php(14): dataBase->getRow('modelinfo', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[29-Aug-2021 02:42:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[29-Aug-2021 02:42:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[29-Aug-2021 02:42:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[29-Aug-2021 02:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[29-Aug-2021 20:27:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pinecott/pondacams.com/public_html/model/profile.php on line 579
+[30-Aug-2021 13:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/profile.php(17): dataBase->getRow('modelvideo', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 13:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/profile.php(17): dataBase->getRow('modelvideo', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 13:42:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/profile.php(17): dataBase->getRow('modelvideo', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 13:45:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/pinecott/pondacams.com/public_html/model/profile.php on line 387
+[30-Aug-2021 19:29:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:29:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:29:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:29:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:29:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:29:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:45:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:45:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:45:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:59:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:59:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(38): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 19:59:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 19:59:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 19:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 20:00:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 20:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 20:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 20:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pinecott/pondacams.com/public_html/model/config.php on line 12
+[30-Aug-2021 20:00:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[30-Aug-2021 20:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[31-Aug-2021 14:32:40 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/pinecott/pondacams.com/public_html/model/getCountry.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/getCountry.php on line 12
+[31-Aug-2021 14:33:53 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/pinecott/pondacams.com/public_html/model/getCountry.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/getCountry.php on line 12
+[31-Aug-2021 14:34:24 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/pinecott/pondacams.com/public_html/model/getCountry.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/getCountry.php on line 12
+[01-Sep-2021 11:04:29 UTC] PHP Warning:  Division by zero in /home/pinecott/pondacams.com/public_html/model/index.php on line 176
+[02-Sep-2021 12:08:37 UTC] PHP Warning:  Use of undefined constant type - assumed 'type' (this will throw an Error in a future version of PHP) in /home/pinecott/pondacams.com/public_html/model/livesession.php on line 442
+[02-Sep-2021 12:08:45 UTC] PHP Warning:  Use of undefined constant type - assumed 'type' (this will throw an Error in a future version of PHP) in /home/pinecott/pondacams.com/public_html/model/livesession.php on line 442
+[14-Sep-2021 01:46:44 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[14-Sep-2021 01:46:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 27
+[14-Sep-2021 01:46:44 UTC] PHP Warning:  dataBase::insData(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 28
+[14-Sep-2021 01:47:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/stopSession.php(6): dataBase->getRow('session', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[14-Sep-2021 01:48:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[14-Sep-2021 01:52:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[14-Sep-2021 01:52:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[14-Sep-2021 01:52:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[14-Sep-2021 01:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(39): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 16:58:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 16:58:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 16:58:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 16:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:01:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:02:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:02:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:02:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:02:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:02:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:02:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:02:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:02:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:03:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:03:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:03:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:03:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:03:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:03:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:03:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:01 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:04:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:05:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:05:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:05:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:05:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:05:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:05:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:05:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:05:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:07:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:07:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:08:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:08:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:08:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(39): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:09:22 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:22 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/home.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:09:23 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:23 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:09:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:09:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:09:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 17:14:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:14:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 17:14:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 17:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/index.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:07:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:07:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:07:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:07:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:07:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:07:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:11:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:11:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:11:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:11:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:11:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:11:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:14:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:14:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:14:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:14:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/topbar.php(16): dataBase->getRow('users', Array)
+#1 /home/pinecott/pondacams.com/public_html/model/index.php(39): include('/home/pinecott/...')
+#2 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:15:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:18:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:18:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:18:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:18:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:18:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:18:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:18:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:19:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:19:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:19:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:19:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:22:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:22:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:22:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45
+[06-Oct-2021 19:37:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:37:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/pinecott/pondacams.com/public_html/model/config.php on line 9
+[06-Oct-2021 19:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/pinecott/pondacams.com/public_html/model/config.php on line 44
+[06-Oct-2021 19:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/model/config.php:45
+Stack trace:
+#0 /home/pinecott/pondacams.com/public_html/model/livesession.php(6): dataBase->getRow('users', Array)
+#1 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/model/config.php on line 45

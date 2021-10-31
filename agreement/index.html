@@ -1,0 +1,27 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+    <script>
+        const queryString = window.location.search;
+
+        const urlParams = new URLSearchParams(queryString);
+        
+        const user_id = urlParams.get('user_id')
+        
+        console.log(user_id);
+    </script>
+</head>
+
+<iframe id="ifm" name="pageindex"  width="28%" height="600"></iframe>
+
+<iframe  name="contents" src="OutDocument\pg_0001.htm" width="70%" height="600"></iframe>
+<script>
+    var ifm = document.getElementById("ifm");
+    ifm.src = "./OutDocument/pg_indx.html?user_id=" + user_id;
+</script>
+<noframes>
+<body>
+<p>This page uses frames, but your browser doesn't support them.</p>
+</body>
+</noframes>
+</html>

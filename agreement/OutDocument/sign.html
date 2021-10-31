@@ -1,0 +1,64 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+    <script>
+        const queryString = window.location.search;
+
+        const urlParams = new URLSearchParams(queryString);
+        
+        const user_id = urlParams.get('user_id')
+        
+        console.log(user_id);
+		function signAgreement()
+		{
+		    var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function ()
+			{
+				if (this.readyState == 4 && this.status == 200)
+				{
+				    document.getElementById("status").innerHTML = this.responseText;
+					
+				}
+			};
+			xhttp.open("POST", "../getAgreement.php", true);
+			var formdata = new FormData();
+			var initials = document.getElementById("initials");
+			
+			formdata.append('user_id', user_id);
+			formdata.append('initials', initials.value);
+			
+			xhttp.send(formdata);
+		}
+		function getAgree()
+		{
+		    var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function ()
+			{
+				if (this.readyState == 4 && this.status == 200)
+				{
+					var response = JSON.parse(this.responseText);
+					console.log(response);
+                    var initials = document.getElementById("initials");
+                    var date = document.getElementById("date");
+                    date.value = response.date;
+                    
+                    initials.value = response.initials;
+				}
+			};
+			xhttp.open("POST", "../getAgreement.php", true);
+			var formdata = new FormData();
+			formdata.append('user_id', user_id);
+			xhttp.send(formdata);
+		}
+    </script>
+</head>
+<body onload="getAgree()"><center>
+	<p>Sign agreement by inserting Initials & surname</p>
+<label for="initials">Initials & surname:</label>
+<input type="text" name="initials" id="initials">
+<label for="Date">Date:</label>
+<input type="date" id="date" name="date">
+<button onclick="signAgreement()">Submit</button>
+<p id="status"></p>
+</center></body>
+</html>

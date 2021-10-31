@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script>
+        const queryString = window.location.search;
+
+        const urlParams = new URLSearchParams(queryString);
+        
+        const user_id = urlParams.get('user_id')
+        
+
+    </script>
+</head>
+<body style="text-align: center;">
+	<a target="contents" href="pg_0001.htm">Page 1</a><br/>
+	<a target="contents" href="pg_0002.htm">Page 2</a><br/>
+	<a target="contents" href="pg_0003.htm">Page 3</a><br/>
+	<a target="contents" href="pg_0004.htm">Page 4</a><br/>
+	<a target="contents" href="pg_0005.htm">Page 5</a><br/>
+	<a target="contents" href="pg_0006.htm">Page 6</a><br/>
+	<a target="contents" href="pg_0007.htm">Page 7</a><br/>
+	<a target="contents" href="pg_0008.htm">Page 8</a><br/>
+	<a target="contents" href="pg_0009.htm">Page 9</a><br/>
+	<a target="contents" href="pg_0010.htm">Page 10</a><br/>
+	<a target="contents" href="pg_0011.htm">Page 11</a><br/>
+	<a target="contents" href="pg_0012.htm">Page 12</a><br/>
+	<a target="contents" href="pg_0013.htm">Page 13</a><br/>
+	<a target="contents" href="pg_0014.htm">Page 14</a><br/>
+	<a target="contents" href="pg_0015.htm">Page 15</a><br/>
+	<a target="contents" href="pg_0016.htm">Page 16</a><br/>
+	<a target="contents" href="pg_0017.htm">Page 17</a><br/>
+	<a target="contents" href="pg_0018.htm">Page 18</a><br/>
+	<a target="contents" href="pg_0019.htm">Page 19</a><br/>
+	<a target="contents" href="pg_0020.htm">Page 20</a><br/>
+	<a target="contents" href="pg_0021.htm">Page 21</a><br/>
+	<a target="contents" href="pg_0022.htm">Page 22</a><br/>
+	<a target="contents" href="pg_0023.htm">Page 23</a><br/>
+	<a target="contents" href="pg_0024.htm">Page 24</a><br/>
+	<a target="contents" href="pg_0025.htm">Page 25</a><br/>
+	<a target="contents" href="pg_0026.htm">Page 26</a><br/>
+	<a target="contents" href="pg_0027.htm">Page 27</a><br/>
+	<a target="contents" href="pg_0028.htm">Page 28</a><br/>
+	<a target="contents" href="pg_0029.htm">Page 29</a><br/>
+	<a target="contents" href="pg_0030.htm">Page 30</a><br/>
+	<a target="contents" href="sign.html" id="signA">Sign</a><br/>
+	<script>
+    	var signA = document.getElementById("signA");
+    	signA.href = "sign.html?user_id="+user_id ;
+    </script>
+</body>
+</html>

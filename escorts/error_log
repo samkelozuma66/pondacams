@@ -1,0 +1,59 @@
+[08-Jul-2021 12:24:51 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:24:51 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:24:51 UTC] PHP Fatal error:  Uncaught Error: Class 'dataBase' not found in /home/pondacam/public_html/escorts/index.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/pondacam/public_html/escorts/index.php on line 81
+[08-Jul-2021 12:25:55 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:25:55 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:25:55 UTC] PHP Fatal error:  Uncaught Error: Class 'dataBase' not found in /home/pondacam/public_html/escorts/index.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/pondacam/public_html/escorts/index.php on line 81
+[08-Jul-2021 12:26:09 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:26:09 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'dataBase' not found in /home/pondacam/public_html/escorts/index.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/pondacam/public_html/escorts/index.php on line 81
+[08-Jul-2021 12:27:06 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:27:06 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/pondacam/public_html/escorts/index.php on line 2
+[08-Jul-2021 12:27:06 UTC] PHP Fatal error:  Uncaught Error: Class 'dataBase' not found in /home/pondacam/public_html/escorts/index.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/pondacam/public_html/escorts/index.php on line 81
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 2
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 2
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 2
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 3
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 3
+[02-Oct-2021 20:21:32 UTC] PHP Warning:  include(): Failed opening 'error.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 3
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 2
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 2
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 2
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 3
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 3
+[03-Oct-2021 00:58:38 UTC] PHP Warning:  include(): Failed opening 'error.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/verify_otp.php on line 3
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 2
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 2
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 2
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 3
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(error.php): failed to open stream: No such file or directory in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 3
+[03-Oct-2021 01:04:13 UTC] PHP Warning:  include(): Failed opening 'error.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 3
+[03-Oct-2021 01:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function updateData() on null in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/escorts/resend_otp.php on line 40
+[03-Oct-2021 01:23:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/pinecott/pondacams.com/public_html/escorts/register.php on line 84
+[04-Oct-2021 23:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/escorts/index.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/escorts/index.php on line 580
+[04-Oct-2021 23:49:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/pinecott/pondacams.com/public_html/escorts/index.php:580
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/escorts/index.php on line 580
+[05-Oct-2021 21:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::getRow() in /home/pinecott/pondacams.com/public_html/escorts/index.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/pinecott/pondacams.com/public_html/escorts/index.php on line 104
